@@ -1,5 +1,9 @@
-# Hot Spots detection
+# Data for use in COLAB
 
-Deep learning model for detection of hot spots in pv systems using thermal images.
+Diferentes bases de datos para clonar y usar en COLAB
 
-Data : https://www.kaggle.com/datasets/marcosgabriel/photovoltaic-system-thermography
+Folders:
+
+  -->Data : <https://www.kaggle.com/datasets/marcosgabriel/photovoltaic-system-thermography>
+  
+  -->Data1 : <https://www.kaggle.com/datasets/marcosgabriel/photovoltaic-modules-corrective-maintenance>
